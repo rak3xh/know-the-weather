@@ -463,6 +463,30 @@ function changeTimeSpan(unit) {
 
 cities = [
   {
+    country: "IND",
+    name: "Mumbai",
+    lat: "19.0760",
+    lng: "72.8777",
+  },
+  {
+    country: "IND",
+    name: "Kharagpur",
+    lat: "22.3460",
+    lng: "87.2320",
+  },
+  {
+    country: "IND",
+    name: "Midnapore",
+    lat: "22.4257",
+    lng: "87.3199",
+  },
+  {
+    country: "IND",
+    name: "New Delhi",
+    lat: "28.6139",
+    lng: "77.2090",
+  },
+  {
     country: "PK",
     name: "Abbottabad",
     lat: "34.1463",
