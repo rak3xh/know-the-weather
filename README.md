@@ -7,15 +7,13 @@
 
 <p align="center"><a href=""><img src="https://i.ibb.co/kq41XGM/Screenshot-2024-01-08-004115.png" alt="Screenshot-2024-01-08-004115" border="0"></a></p>
 
-<div>
-<center>
+<div align="center">
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 
-</center>
 </div>
 
 ---
